@@ -5,7 +5,10 @@
     "role": "All-Rounder",
     "battingStyle": "Left-Hand-Bat",
     "price": 1200000,
-    "image": "https://i.ibb.co.com/Rp43vg7z/gettyimages-2154844262-594x594.jpg"
+    "image": "https://i.ibb.co.com/7JN7sVYV/Shakib-Al-Hasan-4235234e3be840b8a0c3965243767cb4.webp",
+    "rating": 9.5,
+    "bowlingStyle": "Left-arm Orthodox Spin",
+    "bowlingRating": 9.3
   },
   {
     "name": "Tamim Iqbal",
@@ -13,7 +16,10 @@
     "role": "Batsman",
     "battingStyle": "Left-Hand-Bat",
     "price": 1000000,
-    "image": "https://i.ibb.co.com/wN0CQssy/301403-6.webp"
+    "image": "https://i.ibb.co.com/wN0CQssy/301403-6.webp",
+    "rating": 9,
+    "bowlingStyle": "N/A",
+    "bowlingRating": 5
   },
   {
     "name": "Mushfiqur Rahim",
@@ -21,7 +27,10 @@
     "role": "Wicket-Keeper",
     "battingStyle": "Right-Hand-Bat",
     "price": 900000,
-    "image": "https://i.ibb.co.com/HT1r13xP/images.jpg"
+    "image": "https://i.ibb.co.com/3YVMbdVZ/mr2-1741254563.png",
+    "rating": 8.5,
+    "bowlingStyle": "N/A",
+    "bowlingRating": 5
   },
   {
     "name": "Mahmudullah Riyad",
@@ -29,7 +38,10 @@
     "role": "All-Rounder",
     "battingStyle": "Right-Hand-Bat",
     "price": 850000,
-    "image": "https://i.ibb.co.com/chCQjr6K/image-28795-1637233611.jpg"
+    "image": "https://i.ibb.co.com/chCQjr6K/image-28795-1637233611.jpg",
+    "rating": 8,
+    "bowlingStyle": "Right-arm Off Spin",
+    "bowlingRating": 8
   },
   {
     "name": "Mustafizur Rahman",
@@ -37,7 +49,10 @@
     "role": "Bowler",
     "battingStyle": "Left-Hand-Bat",
     "price": 800000,
-    "image": "https://i.ibb.co.com/F40qp5Pj/images-1.jpg"
+    "image": "https://i.ibb.co.com/PZ5mn4dc/383539.webp",
+    "rating": 8.2,
+    "bowlingStyle": "Left-arm Fast-Medium",
+    "bowlingRating": 9
   },
   {
     "name": "Litton Das",
@@ -45,7 +60,10 @@
     "role": "Wicket-Keeper",
     "battingStyle": "Right-Hand-Bat",
     "price": 700000,
-    "image": "https://i.ibb.co.com/Hp7zMFDR/liton-das-currently-going-through-a-rough-patch-attempts-to-reinvent-himself-in-the-nets.webp"
+    "image": "https://i.ibb.co.com/Hp7zMFDR/liton-das-currently-going-through-a-rough-patch-attempts-to-reinvent-himself-in-the-nets.webp",
+    "rating": 7.8,
+    "bowlingStyle": "N/A",
+    "bowlingRating": 5
   },
   {
     "name": "Taskin Ahmed",
@@ -53,7 +71,10 @@
     "role": "Bowler",
     "battingStyle": "Left-Hand-Bat",
     "price": 750000,
-    "image": "https://i.ibb.co.com/rfdg9R5T/af27b2c89f840b3d17639d0654994989.jpg"
+    "image": "https://i.ibb.co.com/rfdg9R5T/af27b2c89f840b3d17639d0654994989.jpg",
+    "rating": 7.5,
+    "bowlingStyle": "Right-arm Fast",
+    "bowlingRating": 8.5
   },
   {
     "name": "Andre Russell",
@@ -61,7 +82,10 @@
     "role": "All-Rounder",
     "battingStyle": "Right-Hand-Bat",
     "price": 1500000,
-    "image": "https://i.ibb.co.com/ycrnGXHq/l52320240328173656.webp"
+    "image": "https://i.ibb.co.com/ycrnGXHq/l52320240328173656.webp",
+    "rating": 9.7,
+    "bowlingStyle": "Right-arm Fast",
+    "bowlingRating": 8.8
   },
   {
     "name": "Sunil Narine",
@@ -69,7 +93,10 @@
     "role": "All-Rounder",
     "battingStyle": "Left-Hand-Bat",
     "price": 1100000,
-    "image": "https://i.ibb.co.com/9kMhhrgk/Sunil-Narine.jpg"
+    "image": "https://i.ibb.co.com/9kMhhrgk/Sunil-Narine.jpg",
+    "rating": 9,
+    "bowlingStyle": "Right-arm Mystery Spin",
+    "bowlingRating": 9.5
   },
   {
     "name": "David Miller",
@@ -77,7 +104,10 @@
     "role": "Batsman",
     "battingStyle": "Left-Hand-Bat",
     "price": 1300000,
-    "image": "https://i.ibb.co.com/xSLLZk2T/388018-5.png"
+    "image": "https://i.ibb.co.com/xSLLZk2T/388018-5.png",
+    "rating": 9.2,
+    "bowlingStyle": "N/A",
+    "bowlingRating": 5
   },
   {
     "name": "Imran Tahir",
@@ -85,7 +115,10 @@
     "role": "Bowler",
     "battingStyle": "Right-Hand-Bat",
     "price": 950000,
-    "image": "https://i.ibb.co.com/9khb5hz5/images-2.jpg"
+    "image": "https://i.ibb.co.com/9khb5hz5/images-2.jpg",
+    "rating": 8.8,
+    "bowlingStyle": "Right-arm Leg Spin",
+    "bowlingRating": 9.4
   },
   {
     "name": "Kieron Pollard",
@@ -93,6 +126,9 @@
     "role": "All-Rounder",
     "battingStyle": "Right-Hand-Bat",
     "price": 1450000,
-    "image": "https://i.ibb.co.com/7tQDxPgd/l16820221025132016.webp"
+    "image": "https://i.ibb.co.com/7tQDxPgd/l16820221025132016.webp",
+    "rating": 9.6,
+    "bowlingStyle": "Right-arm Medium",
+    "bowlingRating": 8.5
   }
 ]

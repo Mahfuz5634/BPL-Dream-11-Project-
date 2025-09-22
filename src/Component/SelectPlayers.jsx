@@ -1,9 +1,10 @@
 import React from 'react';
 
-const SelectPlayers = () => {
+const SelectPlayers = ({pl}) => {
+    console.log(pl);
     return (
-        <div>
-            df
+        <div className='max-w-[1150px] mx-auto'>
+          diofdoi
         </div>
     );
 };
