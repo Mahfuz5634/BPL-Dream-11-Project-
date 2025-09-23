@@ -2,7 +2,9 @@ import React, { useState } from 'react';
 import userImg from '../assets/Group.png'
 import flag from '../assets/report.png'
 
+
 const Showcard = ({player,setBalance,balance,pl,setpl}) => {
+  const isSl = pl.some(p => p.name === player.name);
     const[isSelected,setselect]= useState(false)
     return (
         <div>
@@ -59,7 +61,7 @@ const Showcard = ({player,setBalance,balance,pl,setpl}) => {
       <p className="text-sm">
         <span className="font-bold">Price:</span>${player.price}
       </p>
-      <button disabled={isSelected} onClick={()=>{
+      <button disabled={isSl} onClick={()=>{
         
          if (balance >= player.price) {
       setselect(true);
