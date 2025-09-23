@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import userImg from '../assets/Group.png'
 import flag from '../assets/report.png'
+import { toast } from 'react-toastify';
 
 
 const Showcard = ({player,setBalance,balance,pl,setpl}) => {
@@ -69,7 +70,7 @@ const Showcard = ({player,setBalance,balance,pl,setpl}) => {
        const  npl=[...pl,player];
        setpl(npl);
     } else {
-      alert("You don't have enough money");
+      toast("You don't have enough money");
     }
       }
        } className="btn btn-sm bg-blue-500 hover:bg-blue-600 text-white rounded-lg">

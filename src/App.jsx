@@ -4,6 +4,7 @@ import './App.css'
 import AvilablePlayers from './Component/AvilablePlayers'
 import NavbarFile from './Component/NavbarFile'
 import SelectPlayers from './Component/SelectPlayers'
+ import { ToastContainer} from 'react-toastify';
 
 const fetchPlayer = async ()=>{
    const res=await fetch('/players.json')
@@ -14,7 +15,7 @@ function App() {
    
 
    const [toggle,settoggle]=useState(true)
-   const [balance,setBalance]=useState(8000000)
+   const [balance,setBalance]=useState(2000000)
    const [pl,setpl]=useState([])
 
    const removepl =(p)=>{
@@ -40,9 +41,11 @@ function App() {
     <AvilablePlayers pl={pl} setpl={setpl} balance={balance} setBalance={setBalance} playerData={playerData}></AvilablePlayers></Suspense>: <SelectPlayers removepl={removepl} pl={pl}></SelectPlayers>
    }
    
-  
+   <ToastContainer />
     </>
   )
 }
+ 
 
 export default App
+
